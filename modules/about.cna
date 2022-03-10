@@ -1,0 +1,9 @@
+menu "关于" {
+    item "GitHub"{
+        url_open("https://github.com/mastersir-lab");
+    }
+    item "作者 : Master先生"{
+    }
+    item "版本 v1.0"{
+    }
+}
