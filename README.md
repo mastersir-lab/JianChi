@@ -3,6 +3,12 @@
 
 ## 插件使用
 Cobalt Strike导入插件
+```
+cobaltstrike->Scripts->load
+```
 
 ## 运行截图
 ![image](https://github.com/mastersir-lab/JianChi/blob/main/images/image.png)
+
+## 声明
+本插件仅作为个人练手无任何技术成果。
