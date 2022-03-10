@@ -1,0 +1,7 @@
+popup beacon_bottom {
+    menu "剑池"{
+        include(script_resource("modules/discovery.cna"));
+        include(script_resource("modules/about.cna"));	
+    }
+}
+
